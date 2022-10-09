@@ -10,7 +10,7 @@
 
 小游戏：吃掉玄乙乙
 
-[English](README_EN.md)
+[English（EatKano）](README_EN.md)
 |
 [玄乙Yem b站](https://space.bilibili.com/13159406)
 |
