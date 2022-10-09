@@ -1,7 +1,7 @@
 
 # EatYem
 
- 网页小游戏
+ 网页小游戏，From EatKano
 
 </div>
 
@@ -82,8 +82,3 @@
    }
    $ranking = "kano_rank";
    ```
-
-
-## 其它事项
-
-点下star吧~ 欢迎pr代码
