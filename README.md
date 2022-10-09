@@ -3,30 +3,22 @@
 </p>
 <div align="center">
 
-# EatKano
+# EatYem
 
-_🦌 网页小游戏 🥛_
+ 网页小游戏
 
 </div>
 
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：吃掉玄乙乙
 
 [English](README_EN.md)
 |
-[鹿乃b站](https://space.bilibili.com/316381099)
+[玄乙Yemb站](https://space.bilibili.com/13159406)
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
-
-## 可选功能
-
-简易排行榜(日/周/月) 不推荐使用
-
-不需要排行榜把php/sql文件都删掉即可
+[From](https://arcxingye.github.io/EatKano)
 
 ## 版本需求
 + MySQL 5+
@@ -38,9 +30,7 @@ _🦌 网页小游戏 🥛_
 
 ### Github Pages
 
-点 [这里](https://www.bilibili.com/video/BV1r94y1d765) 看视频步骤
-
-如果你不需要排行榜, 那么部署到Github Pages即可.
+如果你不需要排行榜, 部署到Github Pages即可.
 
 按照如下方法更改你想要显示的文字
 
