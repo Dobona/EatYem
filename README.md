@@ -12,7 +12,7 @@
 
 [English](README_EN.md)
 |
-[玄乙Yemb站](https://space.bilibili.com/13159406)
+[玄乙Yem b站](https://space.bilibili.com/13159406)
 |
 [From](https://arcxingye.github.io/EatKano)
 
